@@ -1,0 +1,1 @@
+This is a short and simple javscript code that shows how to create a calculator
